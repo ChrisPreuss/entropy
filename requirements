@@ -1,0 +1,7 @@
+requirements
+
+pillow
+pylab
+dicom
+pandas
+sk
